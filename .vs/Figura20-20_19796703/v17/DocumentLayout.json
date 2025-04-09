@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\3\u00B0 Sofware\\Tareas de Arcides 2025\\Practica 4\\asp\\Figura20-20_19796703\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45C4B7ED-0C85-4A77-BBEA-13330BFE78E7}|Figura20-20_19796703\\Figura20-20_19796703.csproj|c:\\users\\mineducyt\\desktop\\3\u00B0 sofware\\tareas de arcides 2025\\practica 4\\asp\\figura20-20_19796703\\figura20-20_19796703\\inicio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C4B7ED-0C85-4A77-BBEA-13330BFE78E7}|Figura20-20_19796703\\Figura20-20_19796703.csproj|solutionrelative:figura20-20_19796703\\inicio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45C4B7ED-0C85-4A77-BBEA-13330BFE78E7}|Figura20-20_19796703\\Figura20-20_19796703.csproj|c:\\users\\mineducyt\\desktop\\3\u00B0 sofware\\tareas de arcides 2025\\practica 4\\asp\\figura20-20_19796703\\figura20-20_19796703\\sqldatasourceclasssessionparameter.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{45C4B7ED-0C85-4A77-BBEA-13330BFE78E7}|Figura20-20_19796703\\Figura20-20_19796703.csproj|solutionrelative:figura20-20_19796703\\sqldatasourceclasssessionparameter.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C4B7ED-0C85-4A77-BBEA-13330BFE78E7}|Figura20-20_19796703\\Figura20-20_19796703.csproj|c:\\users\\mineducyt\\desktop\\3\u00B0 sofware\\tareas de arcides 2025\\practica 4\\asp\\figura20-20_19796703\\figura20-20_19796703\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{45C4B7ED-0C85-4A77-BBEA-13330BFE78E7}|Figura20-20_19796703\\Figura20-20_19796703.csproj|c:\\users\\mineducyt\\desktop\\3\u00B0 sofware\\tareas de arcides 2025\\practica 4\\asp\\figura20-20_19796703\\figura20-20_19796703\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{45C4B7ED-0C85-4A77-BBEA-13330BFE78E7}|Figura20-20_19796703\\Figura20-20_19796703.csproj|solutionrelative:figura20-20_19796703\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C4B7ED-0C85-4A77-BBEA-13330BFE78E7}|Figura20-20_19796703\\Figura20-20_19796703.csproj|C:\\Users\\MINEDUCYT\\Desktop\\3\u00B0 Sofware\\Tareas de Arcides 2025\\Practica 4\\asp\\Figura20-20_19796703\\figura20-20_19796703\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{45C4B7ED-0C85-4A77-BBEA-13330BFE78E7}|Figura20-20_19796703\\Figura20-20_19796703.csproj|solutionrelative:figura20-20_19796703\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Inicio.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\3\u00B0 Sofware\\Tareas de Arcides 2025\\Practica 4\\asp\\Figura20-20_19796703\\Figura20-20_19796703\\Inicio.aspx.cs",
+              "RelativeDocumentMoniker": "Figura20-20_19796703\\Inicio.aspx.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\3\u00B0 Sofware\\Tareas de Arcides 2025\\Practica 4\\asp\\Figura20-20_19796703\\Figura20-20_19796703\\Inicio.aspx.cs",
+              "RelativeToolTip": "Figura20-20_19796703\\Inicio.aspx.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:45:35.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\3\u00B0 Sofware\\Tareas de Arcides 2025\\Practica 4\\asp\\Figura20-20_19796703\\Figura20-20_19796703\\Inicio.aspx",
+              "RelativeDocumentMoniker": "Figura20-20_19796703\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\3\u00B0 Sofware\\Tareas de Arcides 2025\\Practica 4\\asp\\Figura20-20_19796703\\Figura20-20_19796703\\Inicio.aspx",
+              "RelativeToolTip": "Figura20-20_19796703\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-09T17:44:39.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SqlDataSourceClassSessionParameter.aspx",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\3\u00B0 Sofware\\Tareas de Arcides 2025\\Practica 4\\asp\\Figura20-20_19796703\\Figura20-20_19796703\\SqlDataSourceClassSessionParameter.aspx",
               "RelativeDocumentMoniker": "Figura20-20_19796703\\SqlDataSourceClassSessionParameter.aspx",
@@ -35,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\3\u00B0 Sofware\\Tareas de Arcides 2025\\Practica 4\\asp\\Figura20-20_19796703\\Figura20-20_19796703\\Web.config",
               "RelativeDocumentMoniker": "Figura20-20_19796703\\Web.config",
